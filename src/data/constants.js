@@ -9,8 +9,8 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1cwtg71EvXTvWrluy1u9Xj1HU20509YSn/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/nishan-tharaka-7b09a52ab/",
-  instagram: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  instagram: "https://www.instagram.com/_nishan_tharaka/?__pwa=1",
+  facebook: "https://www.facebook.com/nishan.tharaka.9235",
 };
 
 export const skills = [
