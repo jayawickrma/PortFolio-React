@@ -17,9 +17,7 @@ export const HeroContainer = styled.div`
   clip-path: polygon(0 0, 100% 0, 100% 100%, 70% 95%, 0 100%);
 `;
 
-import styled from "styled-components";
-
-export const HeroBg = styled.div
+export const HeroBg = styled.div`
   position: absolute;
   display: flex;
   justify-content: end;
@@ -41,8 +39,7 @@ export const HeroBg = styled.div
     justify-content: center;
     padding: 0 0px;
   }
-;
-
+`;
 
 export const HeroInnerContainer = styled.div`
   position: relative;
