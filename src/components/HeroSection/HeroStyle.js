@@ -19,29 +19,29 @@ export const HeroContainer = styled.div`
 
 import styled from "styled-components";
 
-export const HeroBg = styled.div`
+export const HeroBg = styled.div
   position: absolute;
   display: flex;
   justify-content: end;
-  align-items: center;
-  top: 50%;
-  left: 50%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   width: 100%;
   height: 100%;
   max-width: 1360px;
   overflow: hidden;
   padding: 0 30px;
-  transform: translate(-50%, -50%);
-  
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
 
   @media (max-width: 960px) {
     justify-content: center;
-    padding: 0;
+    padding: 0 0px;
   }
-`;
+;
 
 
 export const HeroInnerContainer = styled.div`
