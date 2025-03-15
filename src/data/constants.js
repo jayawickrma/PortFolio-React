@@ -205,8 +205,8 @@ export const projects = [
     id: 9,
     title: "Green-Shadow-frontend",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
-    image:
+      "Green Shadow Crop Management System is a web-based application designed to enhance farm productivity by streamlining crop monitoring, field management, and resource allocation. It provides farm managers with real-time insights into crop cultivation, irrigation schedules, and harvesting plans, ensuring efficient decision-making. Employees can easily log daily farming activities, track progress, and manage resources, contributing to a well-organized and data-driven agricultural workflow",
+      image:
       "https://github.com/user-attachments/assets/0235000c-792b-4eea-b0fb-4c919a29d445",
     tags: [
         "HTML","CSS",
@@ -219,9 +219,9 @@ export const projects = [
   {
     id: 0,
     title: "Green-Shadow-backend",
-    description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
+  description:
+      "Green Shadow Crop Management System is a web-based application designed to enhance farm productivity by streamlining crop monitoring, field management, and resource allocation. It provides farm managers with real-time insights into crop cultivation, irrigation schedules, and harvesting plans, ensuring efficient decision-making. Employees can easily log daily farming activities, track progress, and manage resources, contributing to a well-organized and data-driven agricultural workflow",
+     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvQxs8NGlyJdaZ2UCWUgxyq-TWd-A126b96w&s",
     tags: [ "Spring-Boot",
       "JWT",
@@ -246,7 +246,7 @@ export const projects = [
     id: 2,
     title: "English Teacher Website",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "English Teacher's Website is a comprehensive online platform designed to enhance the learning experience for students and provide teachers with tools to effectively manage lessons, assignments, and progress tracking. It offers resources for grammar, vocabulary, and writing exercises, alongside interactive quizzes and discussion forums to engage students. The platform also allows teachers to upload teaching materials, monitor student performance, and communicate directly with students for feedback and support.",
     image:
       "https://github.com/user-attachments/assets/d725aba3-5a43-424c-9456-e2e7b8918c10",
     tags: ["HTML","CSS","JavaScript","EmailJs","SCSS"],
@@ -266,7 +266,7 @@ export const projects = [
     id: 3,
     title: "Notepad",
     description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "Notepad Application is a simple and efficient note-taking app designed to help users organize their thoughts, tasks, and ideas in a clean and user-friendly interface. It allows users to create, edit, and delete notes with ease, while offering features like dark mode, voice-to-text, and offline access for seamless note-taking on the go. The app also includes secure authentication and cloud synchronization, ensuring users' notes are safely stored and accessible from any device.",
     image:
       "https://github.com/user-attachments/assets/580ea05b-eeeb-4bdd-a942-2c77175ece59",
     tags: ["React-Native","EXPO","Axios"],
@@ -278,7 +278,7 @@ export const projects = [
     id: 8,
     title: "Chat-Bot",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "JavaScript-based Chatbot is a simple yet powerful chatbot application designed to provide interactive and real-time conversations with users. Built using vanilla JavaScript, this chatbot can answer predefined questions, guide users through common queries, and offer basic assistance. It's designed with a clean, user-friendly interface, ensuring a smooth conversational experience. The chatbot is highly customizable, allowing developers to add new functionalities, integrate with APIs, and enhance its intelligence with advanced algorithms.",
     image:
       "https://github.com/user-attachments/assets/8d9b3c19-4fa0-4db6-a2c8-f7c40b54e1ea",
     tags: ["HTML","CSS","Javascript","OPENAI"],
