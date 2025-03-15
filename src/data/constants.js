@@ -227,7 +227,7 @@ export const projects = [
     description:
       "Sri Lankan Tourism Website is an interactive platform designed to showcase the beauty, culture, and attractions of Sri Lanka. The website provides comprehensive information on tourist destinations, local experiences, cultural festivals, and travel tips, helping visitors plan their perfect trip. With an easy-to-navigate interface, it features detailed guides on beaches, mountains, historical sites, and wildlife, while offering booking options for hotels, tours, and transportation. The site is optimized for a seamless user experience, promoting Sri Lanka as a top travel destination.",
       image:
-      "https://github.com/PrabhaWijera/Daffodil-Holidays/blob/master/src/assets/img%20copy.jpg",
+      "https://github.com/user-attachments/assets/6b494173-27f2-42e2-92cf-d0ae662a3a81",
     tags: ["ReactJs","HTML","CSS","JavaScript","EmailJs","SCSS"],
     category: "web app",
     github: "https://github.com/PrabhaWijera/Daffodil-Holidays.git",
