@@ -201,6 +201,46 @@ export const education = [
 ];
 
 export const projects = [
+    {
+    id: 2,
+    title: "English Teacher Website",
+    description:
+      "English Teacher's Website is a comprehensive online platform designed to enhance the learning experience for students and provide teachers with tools to effectively manage lessons, assignments, and progress tracking. It offers resources for grammar, vocabulary, and writing exercises, alongside interactive quizzes and discussion forums to engage students. The platform also allows teachers to upload teaching materials, monitor student performance, and communicate directly with students for feedback and support.",
+    image:
+      "https://github.com/user-attachments/assets/d725aba3-5a43-424c-9456-e2e7b8918c10",
+    tags: ["HTML","CSS","JavaScript","EmailJs","SCSS"],
+    category: "web app",
+    github: "https://github.com/jayawickrma/English-learning-WebSite.git",
+    webapp: "https://www.ceetcenglishacademy.com/",
+    member: [
+      {
+        name: "Nethmi Dileksha",
+        img: "https://avatars.githubusercontent.com/u/156079813?v=4",
+        linkedin: "https://www.linkedin.com/in/nethmi-dileksha-85b268319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        github: "https://github.com/nethmidilekshakavi",
+      }
+    ],
+  },
+      {
+    id: 2,
+    title: "Daffodil-Holidays-Tourism website",
+    description:
+      "Sri Lankan Tourism Website is an interactive platform designed to showcase the beauty, culture, and attractions of Sri Lanka. The website provides comprehensive information on tourist destinations, local experiences, cultural festivals, and travel tips, helping visitors plan their perfect trip. With an easy-to-navigate interface, it features detailed guides on beaches, mountains, historical sites, and wildlife, while offering booking options for hotels, tours, and transportation. The site is optimized for a seamless user experience, promoting Sri Lanka as a top travel destination.",
+      image:
+      "https://github.com/PrabhaWijera/Daffodil-Holidays/blob/master/src/assets/img%20copy.jpg",
+    tags: ["ReactJs","HTML","CSS","JavaScript","EmailJs","SCSS"],
+    category: "web app",
+    github: "https://github.com/PrabhaWijera/Daffodil-Holidays.git",
+    webapp: "",
+    member: [
+      {
+        name: "Prabhash Wijerathne",
+        img: "https://avatars.githubusercontent.com/u/106425954?v=4",
+        linkedin: "",
+        github: "https://github.com/PrabhaWijera",
+      }
+    ],
+  },
   {
     id: 9,
     title: "Green-Shadow-frontend",
@@ -242,26 +282,8 @@ export const projects = [
     category: "web app",
     github: "https://github.com/jayawickrma/Train-Ticket-Booking-System.git",
   },
-  {
-    id: 2,
-    title: "English Teacher Website",
-    description:
-      "English Teacher's Website is a comprehensive online platform designed to enhance the learning experience for students and provide teachers with tools to effectively manage lessons, assignments, and progress tracking. It offers resources for grammar, vocabulary, and writing exercises, alongside interactive quizzes and discussion forums to engage students. The platform also allows teachers to upload teaching materials, monitor student performance, and communicate directly with students for feedback and support.",
-    image:
-      "https://github.com/user-attachments/assets/d725aba3-5a43-424c-9456-e2e7b8918c10",
-    tags: ["HTML","CSS","JavaScript","EmailJs","SCSS"],
-    category: "web app",
-    github: "https://github.com/jayawickrma/English-learning-WebSite.git",
-    webapp: "https://www.ceetcenglishacademy.com/",
-    member: [
-      {
-        name: "Nethmi Dileksha",
-        img: "https://avatars.githubusercontent.com/u/156079813?v=4",
-        linkedin: "https://www.linkedin.com/in/nethmi-dileksha-85b268319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-        github: "https://github.com/nethmidilekshakavi",
-      }
-    ],
-  },
+
+
   {
     id: 3,
     title: "Notepad",
