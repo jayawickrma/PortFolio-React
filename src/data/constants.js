@@ -271,6 +271,20 @@ export const projects = [
   },
   {
     id: 1,
+    title: "Train Booking System -frontend",
+    description:
+      "Designed and developed a train booking system using Spring to streamline ticket reservations and scheduling. Implemented key features such as real-time seat availability, user authentication, and online payments to enhance the booking experience. Integrated admin and user dashboards for managing train schedules, ticket cancellations, and booking history. The plan is to add AI-based fare prediction, a passenger community forum, and a real-time train tracking system",
+    image:
+      "https://private-user-images.githubusercontent.com/142202862/424901256-dc411d79-4e1f-4871-ac5c-5c9707a4737a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI0NjM0MzQsIm5iZiI6MTc0MjQ2MzEzNCwicGF0aCI6Ii8xNDIyMDI4NjIvNDI0OTAxMjU2LWRjNDExZDc5LTRlMWYtNDg3MS1hYzVjLTVjOTcwN2E0NzM3YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyMFQwOTMyMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNzRjZGYwNjliN2JmN2I3MjRlOTJhMTA0NWM0ODQ3ZTFhMzgyZTc4ODhkZmZlZGM1MjU0Y2UxZTk4M2U2ZmNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9uWRXgvobDvJfIg9D8NR97JkHd7zYmTtnymwJAiESR4",
+    tags: [ "ReactJs",
+           "TypeScript",
+      "JWT",
+      "O-Auth-2"],
+    category: "web app",
+    github: "https://github.com/jayawickrma/TrainBooking-Frontend-React.git",
+  },
+    {
+    id: 1,
     title: "Train Booking System -Backend",
     description:
       "Designed and developed a train booking system using Spring to streamline ticket reservations and scheduling. Implemented key features such as real-time seat availability, user authentication, and online payments to enhance the booking experience. Integrated admin and user dashboards for managing train schedules, ticket cancellations, and booking history. The plan is to add AI-based fare prediction, a passenger community forum, and a real-time train tracking system",
