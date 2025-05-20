@@ -7,7 +7,7 @@ export const Bio = {
     "Experienced Backend Developer with expertise in Java, Spring Boot, andNode.js, specializing in scalable, high-performance applications. Proficientin JPA, Spring Data JPA, WebSocket, RESTful APIs, and security (SpringSecurity, OAuth2). Passionate about problem-solving, system architecture,and AI-integrated real-time messaging.",
   github: "https://github.com/jayawickrma",
   resume:
-    "https://drive.google.com/file/d/1cwtg71EvXTvWrluy1u9Xj1HU20509YSn/view?usp=drive_link",
+    "https://drive.google.com/file/d/1jMuaCS-Fu0fDhdOmuRtSA2mfYPr2hyo5/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/nishan-tharaka-7b09a52ab/",
   instagram: "https://www.instagram.com/_nishan_tharaka/?__pwa=1",
   facebook: "https://www.facebook.com/nishan.tharaka.9235",
